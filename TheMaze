@@ -1,0 +1,15 @@
+#include <iostream>
+#include <array>
+using namespace std
+
+std::array maze[12][12]
+
+void  main(){
+
+
+
+
+
+
+
+}
